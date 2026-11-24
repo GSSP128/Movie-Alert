@@ -1,0 +1,8 @@
+{
+  "detector": "venue_date",
+  "movie": "Dune: Part Three",
+  "requested_date": "20261216",
+  "venue_code": "ALUC",
+  "venue_label": "Allu Cinemas: Kokapet, Hyderabad",
+  "url_template": "https://in.bookmyshow.com/movies/hyderabad/dune-part-three/buytickets/ET00526390/{date}"
+}
